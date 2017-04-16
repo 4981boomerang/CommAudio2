@@ -40,7 +40,7 @@
      <string>Client</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="clientButton_2">
+   <widget class="QPushButton" name="serverButton">
     <property name="geometry">
      <rect>
       <x>270</x>
